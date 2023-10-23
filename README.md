@@ -5,9 +5,12 @@ Le projet de gestion des salles et des machines avec RMI est une application de 
 
 L'application comprend les principales fonctionnalités suivantes :
 
-Gestion des Machines : Permet d'ajouter, supprimer et modifier des machines. Chaque machine est associée à une salle spécifique.
-Gestion des Salles : Permet d'ajouter, supprimer et modifier des salles. Chaque salle peut contenir une liste de machines.
-Recherche des Machines par Salle : Permet de rechercher les machines qui sont associées à une salle choisie au niveau de l'interface.
+## Gestion des Machines : 
+Permet d'ajouter, supprimer et modifier des machines. Chaque machine est associée à une salle spécifique.
+## Gestion des Salles :
+Permet d'ajouter, supprimer et modifier des salles. Chaque salle peut contenir une liste de machines.
+## Recherche des Machines par Salle : 
+Permet de rechercher les machines qui sont associées à une salle choisie au niveau de l'interface.
 
 # Utilisation
 
@@ -18,11 +21,11 @@ Recherche des Machines par Salle : Permet de rechercher les machines qui sont as
 # Configuration
 Configurartion correcte Java RMI sur les machines serveur et client.
 
-Lancer le Serveur RMI : Exécutez le serveur RMI pour rendre les services disponibles. Assurez-vous que le serveur RMI est correctement configuré avec les interfaces de gestion des machines des salles.
+Lancer du Serveur RMI : Exécution du serveur RMI pour rendre les services disponibles. Le serveur RMI est correctement configuré avec les interfaces de gestion des machines des salles.
 
 ![image](https://github.com/ghita-baghdad/project-RMI/assets/147449053/ac833f51-9aa9-4f04-8cf1-9667dfa5d26c)
 
-Lancer les Clients : Exécutez les clients pour accéder aux fonctionnalités de gestion. Les clients peuvent ajouter, supprimer, modifier et rechercher des machines et des salles.
+Lancer du Client : Execution du client pour accéder aux fonctionnalités de gestion. Les clients peuvent ajouter, supprimer, modifier et rechercher des machines et des salles.
 
 ![image](https://github.com/ghita-baghdad/project-RMI/assets/147449053/fd4e3b8c-bcc0-451c-ad44-95a1b0f50560)
 
@@ -38,7 +41,7 @@ Lancer les Clients : Exécutez les clients pour accéder aux fonctionnalités de
 ![image](https://github.com/ghita-baghdad/project-RMI/assets/147449053/e0dfe022-63de-4d41-b800-86f8a05e92e2)
 
 
-L'application offre trois interfaces principales :
+## L'application offre trois interfaces principales :
 
 # Gestion des Machines :
 Permet de gérer les machines. Vous pouvez ajouter, supprimer et modifier des machines. Chaque machine est associée à une salle.
